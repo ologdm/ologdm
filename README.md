@@ -1,7 +1,9 @@
 ### Hi I'm Dumitru 👋
 
 -   I’ve started studying java programming in Apr 2023 and after few months also Android SDK
-- 🌱 I’m currently learning Android SDK
+- 🌱 I’m currently learning Android SDK API, Coroutines, Dagger
+- 🔭 I’m looking for the work.
+
 
 <!--
 **ologdm/ologdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
