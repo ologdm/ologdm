@@ -2,7 +2,7 @@
 
 -  ➡️ I’ve started Java programming in Apr 2023 and after a few months I also started Android SDK
 - 📚 I currently deepen my studies in Android SDK API's, Kotlin coroutines, Dagger
-- 🔭 I’m looking for the work 💻
+- 🔍 I’m looking for the work 💻
 
 
 <!--
