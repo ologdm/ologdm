@@ -1,8 +1,8 @@
 ### Hi I'm Dumitru 👋
 
--  ➡️ I’ve started studying java programming in Apr 2023 and after few months also Android SDK
-- 🌱 I’m currently learning Android SDK API, Coroutines, Dagger
-- 🔭 I’m looking for the work.
+-  ➡️ I’ve started Java programming in Apr 2023 and after a few months I also started Android SDK
+- 📚 I currently deepen my studies in Android SDK API's, Kotlin coroutines, Dagger
+- 🔭 I’m looking for the work 💻
 
 
 <!--
