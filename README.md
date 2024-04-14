@@ -1,7 +1,7 @@
 ## 💫 About Me:
 Hi I'm Dumitru 👋<br><br>-  ➡️ I’ve started Java programming in Apr 2023 and after a few months I also started Android SDK<br>- 
 📚 I am currently deepening my studies on Android SDK APIs, Kotlin coroutines, and Dagger<br>- 
-🔍 I’m looking for the work 💻
+🔍 I'm currently looking for work 💻
 
 
 ### 🌐 Socials:
