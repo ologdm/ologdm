@@ -3,11 +3,6 @@ Hi I'm Dumitru 👋<br><br>-  ➡️ I’ve started Java programming in Apr 2023
 📚 I am currently deepening my studies on Android SDK APIs, Kotlin coroutines, and Dagger<br>- 
 🔍 I'm currently looking for work 💻
 
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dumitru-olog/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/di_ma_o/) 
-
 ## 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ## 📊 GitHub Stats:
