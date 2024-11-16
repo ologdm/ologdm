@@ -1,6 +1,6 @@
 ## 💫 About Me:
 Hi I'm Dumitru 👋<br><br>-  ➡️ I’ve started Java programming in November 2022 and after a few months I also started Android SDK<br>- 
-📚 I am currently deepening my studies on Kotlin Coroutines, Android SDK APIs, and Testing <br>- 
+📚 I am currently deepening my studies on Kotlin Coroutines, Testing and Jetpack Compose <br>- 
 🔍 Looking for work 
 
 ## 📊 GitHub Stats:
