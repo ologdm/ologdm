@@ -3,7 +3,7 @@
 💻 Freelance Android Developer with a strong focus on building clean, modern, and maintainable mobile apps. <br>-
 📚 Currently deepening my expertise in Kotlin Coroutines, Jetpack Compose, and Android Testing. <br>-
 🚀 Passionate about mobile UI/UX, performance optimization, and scalable architecture. <br>-
-🤝 Open to collaborations and freelance opportunities — feel free to reach out! <br>-
+🤝 Open to collaborations and freelance opportunities — feel free to reach out! <br>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ologdm&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
