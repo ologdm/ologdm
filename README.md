@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hi, I'm Dumitru Olog <br>-
+👋 Hi, I'm Dumitru <br>-
 💻 Freelance Android Developer with a strong focus on building clean, modern, and maintainable mobile apps. <br>-
 📚 Currently deepening my expertise in Kotlin Coroutines, Jetpack Compose, and Android Testing. <br>-
 🚀 Passionate about mobile UI/UX, performance optimization, and scalable architecture. <br>-
