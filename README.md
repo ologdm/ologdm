@@ -5,7 +5,7 @@
 🚀 Passionate about mobile UI/UX, performance optimization, and scalable architecture. <br>-
 🤝 Open to collaborations and freelance opportunities — feel free to reach out! <br>
 
-📲 Try my app 👇🏻  
+Try my app on Google Play 👇🏻 
 [🎬 MuviTracker](https://play.google.com/store/apps/details?id=dev.dimao.muvitracker)
 
 
