@@ -5,6 +5,10 @@
 🚀 Passionate about mobile UI/UX, performance optimization, and scalable architecture. <br>-
 🤝 Open to collaborations and freelance opportunities — feel free to reach out! <br>
 
+📲 Try my app 👇🏻  
+[🎬 MuviTracker](https://play.google.com/store/apps/details?id=dev.dimao.muvitracker)
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ologdm&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
